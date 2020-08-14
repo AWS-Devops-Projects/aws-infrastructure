@@ -1,0 +1,2 @@
+include ../../buildfile
+ENVS := ops
